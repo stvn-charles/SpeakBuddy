@@ -49,6 +49,5 @@ curl --location 'localhost:8080/audio/user/111/phrase/user1' \
 
 * Retrieve Audio (GET API)
 ```
-
 curl --location 'localhost:8080/audio/user/111/phrase/user1/mp3' -o './test_response_file_1_1.mp3'
 ```
